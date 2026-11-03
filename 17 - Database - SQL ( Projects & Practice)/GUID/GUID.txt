@@ -1,0 +1,45 @@
+هو كود فريد مش بيتكرر و بيعتمد علي 
+time stamp , MAC address , etc.
+
+
+by c#
+
+Guid GuidNum = Guid.NewGuid();
+Console.Write(GuidNum);
+
+
+by SQL
+
+select NewID();
+
+
+
+
+
+---------------------------------
+
+select top 10   * from Employees
+order by newid();
+
+في البداية قد تعتقد أنه يتم جلب اول عشرة موظفين ثم يقوم ترتيبهم حسب ال 
+GUID 
+ ولكن في الواقع يحدث العكس، يتم أولًا ترتيبهم حسب ال
+GUID 
+ثم اختيار أول عشرة ، ولكن لماذا يحدث هذا ؟ 
+كما تعلمنا من الدكتور في الكورس الأول أن هناك أولويات في العمليات الحسابية، هناك أيضًا أولويات في ال
+SQL 
+
+
+الترتيب المنطقي لتنفيذ الاستعلام (Logical Query Processing)
+
+في SQL Server ترتيب التنفيذ المنطقي يكون كالتالي:
+
+1 FROM
+2 WHERE
+3 SELECT
+4 ORDER BY
+5 TOP
+
+--------------------
+لو بدك ترتب عشوائيا التوب 10 لازم تستخدم
+sub query: select * from (select top 10 * from Employees) as random order by NEWID();
