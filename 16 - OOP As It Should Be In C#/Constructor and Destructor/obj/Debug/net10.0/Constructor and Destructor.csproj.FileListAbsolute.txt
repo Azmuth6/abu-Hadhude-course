@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\bin\Debug\net10.0\Constructor and Destructor.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\bin\Debug\net10.0\Constructor and Destructor.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\bin\Debug\net10.0\Constructor and Destructor.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\bin\Debug\net10.0\Constructor and Destructor.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\bin\Debug\net10.0\Constructor and Destructor.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\refint\Constructor and Destructor.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\Constructor and Destructor.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Constructor and Destructor\obj\Debug\net10.0\ref\Constructor and Destructor.dll
