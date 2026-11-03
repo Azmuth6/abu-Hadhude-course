@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\bin\Debug\net10.0\Method Overriding.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\bin\Debug\net10.0\Method Overriding.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\bin\Debug\net10.0\Method Overriding.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\bin\Debug\net10.0\Method Overriding.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\bin\Debug\net10.0\Method Overriding.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\refint\Method Overriding.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\Method Overriding.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Method Overriding\obj\Debug\net10.0\ref\Method Overriding.dll

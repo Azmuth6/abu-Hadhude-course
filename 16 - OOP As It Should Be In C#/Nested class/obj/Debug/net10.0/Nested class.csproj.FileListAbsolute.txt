@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\bin\Debug\net10.0\Nested class.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\bin\Debug\net10.0\Nested class.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\bin\Debug\net10.0\Nested class.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\bin\Debug\net10.0\Nested class.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\bin\Debug\net10.0\Nested class.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\refint\Nested class.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\Nested class.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Nested class\obj\Debug\net10.0\ref\Nested class.dll
