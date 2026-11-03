@@ -1,0 +1,10 @@
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\bin\Debug\Dialogs.exe.config
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\bin\Debug\Dialogs.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\bin\Debug\Dialogs.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.Form1.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\Dialogs\obj\Debug\Dialogs.pdb
