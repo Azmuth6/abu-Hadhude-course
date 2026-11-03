@@ -1,0 +1,10 @@
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\bin\Debug\frm ErrorProvider.exe.config
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\bin\Debug\frm ErrorProvider.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\bin\Debug\frm ErrorProvider.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm ErrorProvider.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm_ErrorProvider.Form1.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm_ErrorProvider.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm ErrorProvider.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm ErrorProvider.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm ErrorProvider.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ErrorProvider\obj\Debug\frm ErrorProvider.pdb

@@ -1,0 +1,10 @@
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\bin\Debug\frm TabControl.exe.config
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\bin\Debug\frm TabControl.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\bin\Debug\frm TabControl.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm TabControl.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm_TabControl.Form1.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm_TabControl.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm TabControl.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm TabControl.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm TabControl.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm TabControl\obj\Debug\frm TabControl.pdb

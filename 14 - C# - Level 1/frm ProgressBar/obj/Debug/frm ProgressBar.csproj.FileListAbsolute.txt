@@ -1,0 +1,10 @@
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\bin\Debug\frm ProgressBar.exe.config
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\bin\Debug\frm ProgressBar.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\bin\Debug\frm ProgressBar.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm ProgressBar.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm_ProgressBar.Form1.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm_ProgressBar.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm ProgressBar.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm ProgressBar.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm ProgressBar.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\frm ProgressBar\obj\Debug\frm ProgressBar.pdb
