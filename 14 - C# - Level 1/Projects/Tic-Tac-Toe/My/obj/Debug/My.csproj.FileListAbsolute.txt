@@ -1,0 +1,10 @@
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.csproj.AssemblyReference.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.Form1.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.Properties.Resources.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.csproj.GenerateResource.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.csproj.CoreCompileInputs.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\bin\Debug\My.exe.config
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\bin\Debug\My.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\bin\Debug\My.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\Projects\Tic-Tac-Toe\My\obj\Debug\My.pdb
