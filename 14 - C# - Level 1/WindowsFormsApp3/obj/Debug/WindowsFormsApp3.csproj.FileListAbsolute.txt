@@ -1,0 +1,10 @@
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
