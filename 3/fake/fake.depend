@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1739454546 source:d:\prog\fake\main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<iostream>
+
