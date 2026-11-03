@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\bin\Debug\net10.0\Upcasting and Downcasting.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\bin\Debug\net10.0\Upcasting and Downcasting.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\bin\Debug\net10.0\Upcasting and Downcasting.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\bin\Debug\net10.0\Upcasting and Downcasting.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\bin\Debug\net10.0\Upcasting and Downcasting.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\refint\Upcasting and Downcasting.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\Upcasting and Downcasting.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Upcasting and Downcasting\obj\Debug\net10.0\ref\Upcasting and Downcasting.dll
