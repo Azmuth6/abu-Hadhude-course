@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\bin\Debug\net10.0\DataView.exe
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\bin\Debug\net10.0\DataView.deps.json
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\bin\Debug\net10.0\DataView.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\bin\Debug\net10.0\DataView.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\bin\Debug\net10.0\DataView.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\refint\DataView.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\DataView.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\DataView\obj\Debug\net10.0\ref\DataView.dll
