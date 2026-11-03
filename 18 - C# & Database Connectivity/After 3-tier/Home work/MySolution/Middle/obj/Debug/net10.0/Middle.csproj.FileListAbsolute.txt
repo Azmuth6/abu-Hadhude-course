@@ -1,0 +1,15 @@
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\bin\Debug\net10.0\Middle.deps.json
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\bin\Debug\net10.0\Middle.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\bin\Debug\net10.0\Middle.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\bin\Debug\net10.0\Data Base.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\bin\Debug\net10.0\Data Base.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.csproj.Up2Date
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\refint\Middle.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\Middle.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Middle\obj\Debug\net10.0\ref\Middle.dll

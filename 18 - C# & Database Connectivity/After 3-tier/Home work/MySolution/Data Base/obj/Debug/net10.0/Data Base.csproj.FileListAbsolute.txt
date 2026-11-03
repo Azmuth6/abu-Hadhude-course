@@ -1,0 +1,12 @@
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\bin\Debug\net10.0\Data Base.deps.json
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\bin\Debug\net10.0\Data Base.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\bin\Debug\net10.0\Data Base.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\refint\Data Base.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\ref\Data Base.dll
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Home work\Data Base\obj\Debug\net10.0\Data Base.csproj.AssemblyReference.cache
