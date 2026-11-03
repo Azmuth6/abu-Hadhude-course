@@ -1,0 +1,10 @@
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\bin\Debug\frmDateTimePicker.exe.config
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\bin\Debug\frmDateTimePicker.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\bin\Debug\frmDateTimePicker.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.csproj.AssemblyReference.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.Form1.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.Properties.Resources.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.csproj.GenerateResource.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.csproj.CoreCompileInputs.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmDateTimePicker\obj\Debug\frmDateTimePicker.pdb

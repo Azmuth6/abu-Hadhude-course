@@ -1,0 +1,10 @@
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\bin\Debug\frmTimer.exe.config
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\bin\Debug\frmTimer.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\bin\Debug\frmTimer.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.csproj.AssemblyReference.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.Form1.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.Properties.Resources.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.csproj.GenerateResource.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.csproj.CoreCompileInputs.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmTimer\obj\Debug\frmTimer.pdb

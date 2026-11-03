@@ -1,0 +1,10 @@
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\bin\Debug\frmNotify.exe.config
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\bin\Debug\frmNotify.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\bin\Debug\frmNotify.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.csproj.AssemblyReference.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.Form1.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.Properties.Resources.resources
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.csproj.GenerateResource.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.csproj.CoreCompileInputs.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\frmNotify\obj\Debug\frmNotify.pdb
