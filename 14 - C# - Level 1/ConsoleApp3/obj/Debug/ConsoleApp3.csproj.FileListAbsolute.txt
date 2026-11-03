@@ -1,0 +1,8 @@
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\programming\abu-Hadhude course\14 - C# - Level 1\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config
