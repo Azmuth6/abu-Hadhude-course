@@ -1,0 +1,23 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\bin\Debug\SendDataToFrom.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\bin\Debug\SendDataToFrom.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\bin\Debug\SendDataToFrom.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\SendDataToFrom.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\SendDataToFrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\SendDataToFrom.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\SendDataToFrom.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\SendDataToFrom.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\03 Send Data Between Forms\WindowsFormsApp1\obj\Debug\SendDataToFrom.pdb
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\bin\Debug\SendDataToFrom.exe.config
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\bin\Debug\SendDataToFrom.exe
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\bin\Debug\SendDataToFrom.pdb
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\SendDataToFrom.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\SendDataToFrom.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\SendDataToFrom.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\SendDataToFrom.exe
+D:\course\programming\abu-Hadhude course\19 - Full Real Project - DVLD\SendDataToForm\SendDataToForm\obj\Debug\SendDataToFrom.pdb
