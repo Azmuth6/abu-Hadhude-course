@@ -1,0 +1,11 @@
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\bin\Debug\Test.exe.config
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\bin\Debug\Test.exe
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\bin\Debug\Test.pdb
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.Form1.resources
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.uscCalculature.resources
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.exe
+D:\course\programming\abu-Hadhude course\18 - C# & Database Connectivity\Datatables\Test\obj\Debug\Test.pdb
