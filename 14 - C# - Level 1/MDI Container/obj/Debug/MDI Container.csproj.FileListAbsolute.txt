@@ -1,0 +1,10 @@
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\bin\Debug\MDI Container.exe.config
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\bin\Debug\MDI Container.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\bin\Debug\MDI Container.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI Container.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI_Container.Form1.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI_Container.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI Container.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI Container.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI Container.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MDI Container\obj\Debug\MDI Container.pdb

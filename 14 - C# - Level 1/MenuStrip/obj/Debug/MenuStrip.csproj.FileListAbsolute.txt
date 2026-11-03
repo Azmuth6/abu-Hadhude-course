@@ -1,0 +1,11 @@
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\bin\Debug\MenuStrip.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.csproj.AssemblyReference.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.exe
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.pdb
+D:\course\programming\abu-Hadhude course\14 - C# - Level 1\MenuStrip\obj\Debug\MenuStrip.frmContextMenu.resources
