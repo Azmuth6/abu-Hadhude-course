@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\bin\Debug\net10.0\Calculator Project.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\bin\Debug\net10.0\Calculator Project.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\bin\Debug\net10.0\Calculator Project.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\bin\Debug\net10.0\Calculator Project.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\bin\Debug\net10.0\Calculator Project.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\refint\Calculator Project.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\Calculator Project.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Calculator Project\obj\Debug\net10.0\ref\Calculator Project.dll

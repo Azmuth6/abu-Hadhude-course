@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\bin\Debug\net10.0\C# Partial Class and Partial Method.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\bin\Debug\net10.0\C# Partial Class and Partial Method.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\bin\Debug\net10.0\C# Partial Class and Partial Method.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\bin\Debug\net10.0\C# Partial Class and Partial Method.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\bin\Debug\net10.0\C# Partial Class and Partial Method.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\refint\C# Partial Class and Partial Method.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\C# Partial Class and Partial Method.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\C# Partial Class and Partial Method\obj\Debug\net10.0\ref\C# Partial Class and Partial Method.dll

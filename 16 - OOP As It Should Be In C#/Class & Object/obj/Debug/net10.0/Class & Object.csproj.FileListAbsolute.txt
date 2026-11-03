@@ -1,0 +1,14 @@
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\bin\Debug\net10.0\Class & Object.exe
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\bin\Debug\net10.0\Class & Object.deps.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\bin\Debug\net10.0\Class & Object.runtimeconfig.json
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\bin\Debug\net10.0\Class & Object.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\bin\Debug\net10.0\Class & Object.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.AssemblyInfoInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.AssemblyInfo.cs
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.csproj.CoreCompileInputs.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\refint\Class & Object.dll
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.pdb
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\Class & Object.genruntimeconfig.cache
+D:\course\programming\abu-Hadhude course\16 - OOP As It Should Be In C#\Class & Object\obj\Debug\net10.0\ref\Class & Object.dll
