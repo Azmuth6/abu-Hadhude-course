@@ -1,0 +1,61 @@
+using Microsoft.Data.SqlClient;
+using System.Data;
+using System.Diagnostics.Metrics;
+using System.Net;
+using System.Security.Cryptography.Pkcs;
+
+public class Program
+{
+    static string connectionString =
+               "Server=localhost,1433;Database=ContactsDB;User Id=sa;Password=SA@123456##;TrustServerCertificate=True;";
+
+
+    static void DeleteContact(string ContactIDs)
+    {
+
+        SqlConnection connection = new SqlConnection(connectionString);
+
+        string query = @"Delete  Contacts  
+                                where ContactID IN (" + ContactIDs + ")";
+
+        SqlCommand command = new SqlCommand(query, connection);
+
+        command.Parameters.AddWithValue("@ContactIDs" , ContactIDs);
+
+
+        try
+        {
+            connection.Open();
+
+            int rowsAffected = command.ExecuteNonQuery();
+
+            if (rowsAffected > 0)
+            {
+                Console.WriteLine($"Record Delete successfully. (" + rowsAffected + ")");
+            }
+            else
+            {
+                Console.WriteLine("Record Delete failed.");
+            }
+
+            connection.Close();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+
+
+    }
+
+    public static void Main()
+    {
+
+       
+
+        DeleteContact("8,5,9");
+
+        Console.ReadKey();
+
+    }
+}
